@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-color: rgb(255, 43, 191);
+    font-family: sans-serif;
+}
+
+table {
+    padding: auto;
+    border: 3px;
+    border-style: dashed;
+}
+
+th {
+    color: rgb(255, 0, 221);
+}
+
+tr {
+    text-align: center;
+    background-color: #df1cbe;
+    border: 3px;
+    border-style: dashed;
+    height: 25px;
+}
